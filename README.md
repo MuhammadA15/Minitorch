@@ -1,2 +1,2 @@
 # Minitorch
-Minitorch modules 0-4 implementation
+Implementation of a lite version of Pytorch called Minitorch.
